@@ -1,3 +1,3 @@
-# MusicPlayer
-A simple music player coded in pure JavaScript and HTML, CSS,  .
+# MusicPlayer:
+I mostly use the JavaScript language to render the interface and handle animations for the Music Player.
 
